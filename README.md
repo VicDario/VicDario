@@ -7,14 +7,14 @@
 
 - 🌱 I’m currently learning **Typescript, Sass and Go**
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **ReactJS, javascript**
 
-- 📫 How to reach me **dariocotrerasfc@gmail.com**
+- 📫 How to reach me **dariocontrerasfc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vicdariof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vicdariof" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:132066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:132066" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13518358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13518358" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
