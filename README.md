@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicdario" alt="vicdario" /></a> </p>
 
-- 🔭 I’m currently working on [PetVA](https://petva-frontend.herokuapp.com/)
+- 🔭 I’m currently working on [PetVA](https://github.com/VicDario/petva-frontend)
 
-- 🌱 I’m currently learning **Typescript, Sass and Go**
+- 🌱 I’m currently learning **Typescript, Sass**
 
 - 💬 Ask me about **ReactJS, javascript**
 
