@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Víctor<br>- 🔭 I’m looking for a job<br>- 📚 I'm currently learning new things<br>- ⚡ In my free time I enjoy playing video games</p>
+<p align="left">I'm Víctor<br>- 🔭 I’m working at BaseDos<br>- 📚 I'm currently learning new things<br>- ⚡ In my free time I enjoy playing video games</p>
 
 ###
 
